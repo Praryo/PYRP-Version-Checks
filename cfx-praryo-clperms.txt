@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Drawable input maximum value bug fix."}
+{"version":"1.0.2", "notes":"Added qb-core and esx player loaded events."}
